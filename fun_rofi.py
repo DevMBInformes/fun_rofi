@@ -3,10 +3,6 @@
 import os
 
 
-#datos = os.system("ls /mnt/alter/code/")
-#print(datos)
-
-#os.system(f"{datos} | rofi -show -dmenu")
 import subprocess
 
 
